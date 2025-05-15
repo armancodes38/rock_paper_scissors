@@ -21,7 +21,7 @@ This is a simple **Rock-Paper-Scissors** game implemented in Python. The game al
 4. After each round, you can choose to play again or exit the game.
 
 
-5. Preview ( ![Screenshot 2025-05-12 143913](https://github.com/user-attachments/assets/ba88ce17-f0e3-429a-b4b2-c28101f7d9c9) )
+5. Preview ![Screenshot 2025-05-12 143913](https://github.com/user-attachments/assets/ba88ce17-f0e3-429a-b4b2-c28101f7d9c9) 
 
 
 ## Requirements
