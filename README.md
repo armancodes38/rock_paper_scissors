@@ -36,6 +36,6 @@ This is a simple **Rock-Paper-Scissors** game implemented in Python. The game al
     ```bash
     python rock_paper_scissors.py
     ```
-
+## GUI version available in the "gui_version" branch
 
 
