@@ -1,41 +1,38 @@
-# Rock-Paper-Scissors Game
+### Rock Paper Scissors (GUI Version) 🎮
+A simple **Rock Paper Scissors** game created using **Python and Tkinter**, featuring **emoji-based buttons** and an **interactive interface**.
 
-## Overview
+## 📝 Features
+- 🎨 **Light green background** for a fresh look  
+- 🖱️ **Emoji-based buttons** for Rock (🪨), Paper (📄), and Scissors (✂️)  
+- 📢 **Game results displayed with emoji messages**  
+- 💻 **Simple and clean GUI using Tkinter**  
 
-This is a simple **Rock-Paper-Scissors** game implemented in Python. The game allows the player to compete against the computer by choosing one of three options: Rock, Paper, or Scissors. The game runs in the terminal and provides the results of each round, including the option to play again.
+## 🚀 How to Run
+1. **Install Python** (if not already installed)  
+2. **Download the game script** (`rps_gui.py`)  
+3. Open terminal and run:
+   ```bash
+   python rps_gui.py
+   ```
+4. Click on emoji buttons to play!  
 
-## How to Play
+## 🏆 Rules
+- **Rock (🪨) beats Scissors (✂️)**  
+- **Scissors (✂️) beats Paper (📄)**  
+- **Paper (📄) beats Rock (🪨)**  
+- If **your choice matches the computer's**, it's a draw 🤝  
 
-1. The game will ask you to input your choice: 
-    - `r` for Rock
-    - `p` for Paper
-    - `s` for Scissors
+## 🛠️ Requirements
+- **Python 3.x**  
+- **Tkinter** (comes pre-installed with Python)  
 
-2. The computer will randomly select one of the three choices.
-3. The game will compare both choices and announce the result:
-    - **Rock beats Scissors**
-    - **Scissors beats Paper**
-    - **Paper beats Rock**
-    - If both player and computer choose the same, it is a draw.
+## 📷 Preview
+![Game Preview](![Screenshot 2025-05-15 142613](https://github.com/user-attachments/assets/5279a8a1-0022-47a9-bdc9-08cb66e65912))
 
-4. After each round, you can choose to play again or exit the game.
+## 🤝 Contributions
+Feel free to **fork** the repository, make changes, and **submit pull requests**! 😊  
 
-
-5. ![Screenshot 2025-05-12 143913](https://github.com/user-attachments/assets/ba88ce17-f0e3-429a-b4b2-c28101f7d9c9)
-
-
-## Requirements
-
-- Python 3.x
-
-## How to Run
-
-1. Download or clone the repository.
-2. Open a terminal and navigate to the directory where the Python file is saved.
-3. Run the game with the following command:
-    ```bash
-    python rock_paper_scissors.py
-    ```
-
-
-
+## 🏅 Credits
+Created by **Arman** 🏆  
+Thanks for checking it out! 🚀  
+ 
