@@ -27,8 +27,8 @@ A simple **Rock Paper Scissors** game created using **Python and Tkinter**, feat
 - **Tkinter** (comes pre-installed with Python)  
 
 ## 📷 Preview
-![Game Preview](![Screenshot 2025-05-15 142613](https://github.com/user-attachments/assets/21b4c84f-2b9c-4c66-b080-f91c8a766f91)
-)
+![Screenshot 2025-05-15 142613](https://github.com/user-attachments/assets/70c57b68-533d-4559-b56f-9cb5cb5e26ba)
+
 
 ## 🤝 Contributions
 Feel free to **fork** the repository, make changes, and **submit pull requests**! 😊  
