@@ -1,41 +1,22 @@
-# Rock-Paper-Scissors Game
+# Rock Paper Scissors 🎮
 
-## Overview
+A simple and fun **Rock Paper Scissors** game built with **Python** and **Streamlit**.  
+Play against the computer with emoji buttons, see animated results, and keep track of your score!
 
-This is a simple **Rock-Paper-Scissors** game implemented in Python. The game allows the player to compete against the computer by choosing one of three options: Rock, Paper, or Scissors. The game runs in the terminal and provides the results of each round, including the option to play again.
+## Demo
 
-## How to Play
+Try the live web app here:  
+https://rock-paper-scisor-app-ho23gddsmsvicb9ybxjyh9.streamlit.app/
 
-1. The game will ask you to input your choice: 
-    - `r` for Rock
-    - `p` for Paper
-    - `s` for Scissors
+## Features
 
-2. The computer will randomly select one of the three choices.
-3. The game will compare both choices and announce the result:
-    - **Rock beats Scissors**
-    - **Scissors beats Paper**
-    - **Paper beats Rock**
-    - If both player and computer choose the same, it is a draw.
+- Easy-to-use emoji buttons for Rock, Paper, and Scissors  
+- Animated result display  
+- Real-time scoreboard tracking wins and losses  
+- Reset scores anytime  
+- Responsive and lightweight web UI using Streamlit
 
-4. After each round, you can choose to play again or exit the game.
-
-
-5. Preview ![Screenshot 2025-05-12 143913](https://github.com/user-attachments/assets/ba88ce17-f0e3-429a-b4b2-c28101f7d9c9) 
-
-
-## Requirements
-
-- Python 3.x
-
-## How to Run
-
-1. Download or clone the repository.
-2. Open a terminal and navigate to the directory where the Python file is saved.
-3. Run the game with the following command:
-    ```bash
-    python rock_paper_scissors.py
-    ```
-## GUI version available in the "gui_version" branch
+## Preview
+![Screenshot 2025-05-16 161632](https://github.com/user-attachments/assets/d55c4e9b-38b9-42f3-a25e-e040879e5703)
 
 
